@@ -6,7 +6,7 @@
 	<packaging>jar</packaging>
 	<name>Pycowl (${project.groupId}:${project.artifactId})</name>
 	<description>An ontology library written in python</description>
-	<url>https://github.com/crillab/pycowl</url>
+	<url>https://github.com/truongthanh1511/pycol</url>
 
 	<scm>
 		<connection>scm:git:https://github.com/truongthanh1511/pycol.git</connection>
