@@ -9,9 +9,9 @@
 	<url>https://github.com/crillab/pycowl</url>
 
 	<scm>
-		<connection>scm:git:https://github.com/crillab/pycowl.git</connection>
-		<developerConnection>scm:git:https://github.com/crillab/pycowl.git</developerConnection>
-		<url>https://github.com/crillab/pycol</url>
+		<connection>scm:git:https://github.com/truongthanh1511/pycol.git</connection>
+		<developerConnection>scm:git:https://github.com/truongthanh1511/pycol.git</developerConnection>
+		<url>https://github.com/truongthanh1511/pycol</url>
 	  <tag>HEAD</tag>
   </scm>
 
